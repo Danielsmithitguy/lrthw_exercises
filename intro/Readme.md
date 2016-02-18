@@ -3,14 +3,20 @@
 >###What are the three most essential skills that a beginner programmer needs to know?
 
 Attention to detail
+
 Reading and writing
+
 Spotting differences
+
 
 >###Please explain these three skills in your own words.
 
 Attention to detail - the ability to notice the little things
+
 Reading and writing - simply put, coding is speaking another language
+
 Spotting differences - some times it's a missed ' or a ], this ability helps with finding the simple formatting errors in general
+
 
 >###Why do you need to not copy and paste?
 
