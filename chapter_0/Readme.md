@@ -23,7 +23,9 @@ Igors-MBP:mystuff $
 
 
 array - http://docs.ruby-lang.org/en/2.0.0/Array.html
+
 hash - http://docs.ruby-lang.org/en/2.0.0/Hash.html
+
 cronic - https://rubygems.org/gems/chronic/versions/0.10.2
 
 http://docs.ruby-lang.org/en/
