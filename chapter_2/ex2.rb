@@ -1,5 +1,5 @@
 # a comment, this is so you can read your program later.
-# anything after the # is ingored by ruby.
+# anything after the # is ignored by ruby.
 
 puts 'i could have like this.' # and the comment after is ingored.
 
