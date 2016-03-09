@@ -7,7 +7,7 @@ teeth = 'White'
 hair = 'Brown'
 
 puts "Let's talk about #{name}."
-#1in = 2.54 centermeters
+# 1in = 2.54 centermeters
 puts "He's #{height * 2.54} cm tall."
 # 1 pound is = to 0.453592 kgs
 puts "He's #{weight * 0.453592} kg heavy."
