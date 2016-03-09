@@ -11,4 +11,7 @@ Either a typo in the call or where it was defined.
 
 if your working in integers then removing the .0 is fine, however because we might get something that ends in a `.n` being a float.
 
+>### guard output
 
+```1 file inspected, no offenses detected
+[1] guard(main)>```
